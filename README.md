@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_Sarathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-sarathy)
 [![GitHub](https://img.shields.io/badge/GitHub-VigneshSarathy26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VigneshSarathy26)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vigneshsarathy26@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](vigneshsarathy26@gmail.com)
 
 ---
 
