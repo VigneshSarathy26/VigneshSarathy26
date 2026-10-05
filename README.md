@@ -51,14 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSarathy26&layout=compact&theme=onedark&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
 </p>
 
-<br/>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=VigneshSarathy26&theme=onedark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
