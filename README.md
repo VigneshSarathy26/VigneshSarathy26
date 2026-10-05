@@ -14,18 +14,9 @@
 
 ## 🚀 About Me
 
-```bash
-$ srectl status --user vignesh-sarathy
-● vignesh-sarathy.service - Site Reliability & Platform Architect
-   Loaded: loaded (/etc/sre/profiles/vignesh.conf; active)
-   Status: "Operating at 99.999% uptime | Automating toil & engineering self-healing systems"
-
-   [Spec & Focus]
-   ├── 🔭 Building: Internal Developer Platforms (IDPs) & Multi-Cluster Service Mesh
-   ├── ⚡ Focus: High Availability, Zero-Downtime Deployments, Chaos & FinOps
-   └── 💬 Skills: Kubernetes, Terraform, Prometheus, Grafana, Go, Python, Bash
-
-```
+- 🔭 **Currently Building**: Internal Developer Platforms (IDPs), Multi-Cluster Service Meshes & Automated Remediation Pipelines.
+- ⚡ **Primary Focus**: High Availability (HA), Zero-Downtime Deployments, Chaos Engineering & FinOps.
+- 💬 **Ask Me About**: `kubectl`, `terraform`, `prometheus`, `grafana`, `go`, `python`, `bash`.
 
 ---
 
