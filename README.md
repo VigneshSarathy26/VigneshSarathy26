@@ -6,25 +6,26 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_Sarathy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-sarathy)
-[![GitHub](https://img.shields.io/badge/GitHub-VigneshSarathy26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VigneshSarathy26)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshsarathy26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_Sarathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-sarathy)
+[![GitHub](https://img.shields.io/badge/GitHub-VigneshSarathy26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VigneshSarathy26)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vigneshsarathy26@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-```yaml
-sre_profile:
-  role: "Site Reliability & Platform Engineer"
-  core_mission: "Eliminate toil, engineer self-healing systems, and maintain 99.999% uptime"
-  architectures: ["Multi-Cloud", "Kubernetes Native", "GitOps", "AI-Ops"]
-  philosophy: "If it hurts, automate it. If it moves, monitor it. Hope is not a strategy."
-```
+```bash
+$ srectl status --user vignesh-sarathy
+● vignesh-sarathy.service - Site Reliability & Platform Architect
+   Loaded: loaded (/etc/sre/profiles/vignesh.conf; active)
+   Status: "Operating at 99.999% uptime | Automating toil & engineering self-healing systems"
 
-- 🔭 **Currently Building**: Internal Developer Platforms (IDPs), Multi-Cluster Service Meshes & Automated Remediation Pipelines.
-- ⚡ **Primary Focus**: High Availability (HA), Zero-Downtime Deployments, Chaos Engineering, and FinOps.
-- 💬 **Ask Me About**: `kubectl`, `terraform`, `prometheus`, `grafana`, `go`, and `python`.
+   [Spec & Focus]
+   ├── 🔭 Building: Internal Developer Platforms (IDPs) & Multi-Cluster Service Mesh
+   ├── ⚡ Focus: High Availability, Zero-Downtime Deployments, Chaos & FinOps
+   └── 💬 Skills: Kubernetes, Terraform, Prometheus, Grafana, Go, Python, Bash
+
+```
 
 ---
 
@@ -52,31 +53,20 @@ sre_profile:
 
 ---
 
-## 📈 GitHub Analytics & Activity Wave
+## 📊 GitHub Metrics & Insights
 
-### 🏆 Earned Trophies & Milestones
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VigneshSarathy26&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/VigneshSarathy26)
-
-<br/>
-
-### 🌊 Activity Wave Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VigneshSarathy26&theme=onedark&hide_border=true)](https://github.com/VigneshSarathy26)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VigneshSarathy26&show_icons=true&theme=onedark&count_private=true&hide_border=true&custom_title=Platform%20Activity%20Stats" height="195" alt="Platform Activity Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSarathy26&layout=compact&theme=onedark&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
+</p>
 
 <br/>
 
-### 📊 Developer Metrics & Streaks
-
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VigneshSarathy26&show_icons=true&theme=onedark&count_private=true&hide_border=true)
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSarathy26&layout=compact&theme=onedark&hide_border=true&langs_count=8)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VigneshSarathy26&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=VigneshSarathy26&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
@@ -84,10 +74,6 @@ sre_profile:
 
 I'm happy to talk about SRE practices, platform engineering, incident culture, or open-source infrastructure tooling.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_Sarathy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-sarathy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_Sarathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-sarathy)
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:3b82f6&height=100&section=footer" alt="footer" width="100%"/>
-
-</div>
